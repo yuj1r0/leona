@@ -2,6 +2,8 @@
 
 **Perceptually uniform, colorblind-safe colormaps extracted from the Renaissance.**
 
+![leona palettes](leona_final.png)
+
 `leona` is a suite of scientifically rigorously engineered colormaps derived directly from the color spaces of great masterworks. While they originated on canvas, these palettes have been mathematically re-projected to ensure strictly monotonically increasing lightness.
 
 Like other modern, scientifically optimized scales, the `leona` palettes are designed to improve graph readability for readers with common forms of color blindness and/or color vision deficiency. They are perceptually-uniform, both in regular form and also when converted to black-and-white for printing.
