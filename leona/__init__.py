@@ -1,12 +1,12 @@
 """
-leona — Leonardo da Vinci colormaps for scientific figures.
+leona — perceptually uniform, colorblind-safe colormaps extracted from the Renaissance.
 
 Three perceptually-ordered colormaps (sequential, monotone in lightness)
-distilled from the palettes of three da Vinci paintings:
+distilled from the color spaces of great masterworks:
 
-    mona    — Mona Lisa            (olive / umber / gold)
-    mundi   — Salvator Mundi       (ultramarine / cream)
-    ermine  — Lady with an Ermine  (oxblood / blue / tan)
+    mona    — olive / umber / gold
+    mundi   — ultramarine / cream
+    ermine  — oxblood / blue / tan
 
 On import, every colormap and its ``_r`` reversed variant is registered with
 matplotlib, so the names work exactly like the built-ins::
